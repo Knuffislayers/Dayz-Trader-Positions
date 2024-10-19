@@ -5,7 +5,7 @@
 // Use this file to spawn your vendors only. Don't use it to create trader areas. It can be used but it's not a good tool for doing so.
 // Don't use other tools to spawn your vendors as it won't work.
 
-// South-East:
+// South-West:
 
 //----------------------------------------------------------- | These are here just for visual delimitation in this file.
 //Consumables Trader
