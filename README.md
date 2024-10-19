@@ -8,10 +8,10 @@ In the folder Trader, copy the file "TraderObjects.txt" and paste it \Config\Tad
 and overwrite the existing file.
 
 In the folder "vppmap" are two files.
-This .json file contains the Tradermarkers of the Sakhal map.
+The TraderObjects.json file contains the Tradermarkers of the Sakhal map.
 Just overwrite the existing file on the "config" folder.
 
-The .txt file only contains the postitiondata including code, to implement the positions by you're self.
+The TraderObjects.txt file only contains the postitiondata including code, to implement the positions by you're self.
 Just choose one of the Files.
 
 Restart you're Server and done.
