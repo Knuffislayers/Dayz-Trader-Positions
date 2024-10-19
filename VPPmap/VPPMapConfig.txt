@@ -1,6 +1,6 @@
 "M_STATIC_MARKER_ARRAY": [
         {
-            "M_MARKER_NAME": "Trader - Southeast",
+            "M_MARKER_NAME": "Trader - Southwest",
             "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
             "M_COLOR": [
                 255.0,
