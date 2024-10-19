@@ -22,3 +22,5 @@ https://github.com/Knuffislayers/Dayz-Trader-Positions
 Credits:
 Original Mod "Trader" from Helkhiana
 https://steamcommunity.com/sharedfiles/filedetails/?id=1590841260
+
+PS: If you find some spelling errors, im sorry about that, but my english is not the best
