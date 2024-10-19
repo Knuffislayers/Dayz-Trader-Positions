@@ -1,6 +1,6 @@
 Here you have two Trader positions for the Sakhal map. 
-For the moment, there ar only the Trader-NPC's. No Deco for now. Maybe later.
-Just put this file in the Folder \Config\Tader\ and overwrite the existing file.
+For the moment, there are only the Trader-NPC's. No Deco for now. Maybe later.
+Just put this file "TraderObjects.txt" in the Folder \Config\Tader\ and overwrite the existing file.
 Restart you're Server and done.
 
 Feel free to help and edit the files on Github
