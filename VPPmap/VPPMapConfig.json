@@ -1,0 +1,55 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "Trader - Southeast",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                2562.0,
+                0.0,
+                9044.0
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+		{
+            "M_MARKER_NAME": "Trader - The Village",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                2562.0,
+                0.0,
+                9044.0
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Trader - Horobo",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                7400.0,
+                0.0,
+                7200.0
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }
+    ],
+    "m_CanUse3DMarkers": 1,
+    "m_OwnPositionMarkerDisabled": 0,
+    "m_ForceMapItemOnly": 0
+}
