@@ -14,6 +14,9 @@ Just overwrite the existing file on the "config" folder.
 The TraderObjects.txt file only contains the postitiondata including code, to implement the positions by you're self.
 Just choose one of the Files.
 
+In "Traderdeco" you'll find opject Spawn data for some Firebarells on the Tradersides.
+A short readme is in Traderdeco to.
+
 Restart you're Server and done.
 
 Feel free to help and edit the files on Github
