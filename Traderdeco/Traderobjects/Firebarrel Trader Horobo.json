@@ -1,0 +1,19 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Misc_FireBarrel_Green",
+            "pos": [
+                8400.4287109375,
+                60.903255462646487,
+                8128.65185546875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        }
+    ]
+}

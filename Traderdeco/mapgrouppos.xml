@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<map>
+	<!-- start fire-barrel-trader--><!-- copy and paste to youre mapgrouppos.xml--> 
+	<group name="Land_Misc_FireBarrel_Blue" pos="2562.389893 41.030899 9044.450195" rpy="-0.000000 0.000000 0.000000" a="90" />
+	<group name="Land_Misc_FireBarrel_Blue" pos="2550.070068 40.430401 9062.009766" rpy="-0.000000 0.000000 0.000000" a="90" />
+	<group name="Land_Misc_FireBarrel_Green" pos="8400.429688 60.903301 8128.649902" rpy="-0.000000 0.000000 0.000000" a="90" />
+	<!-- End -->
+    
+</map>
