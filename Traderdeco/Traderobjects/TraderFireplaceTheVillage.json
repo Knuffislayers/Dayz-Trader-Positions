@@ -1,0 +1,34 @@
+{
+    "Objects": [
+        {
+            "name": "bldr_prop_Fireplace_Complete",
+            "pos": [
+                10348.5693359375,
+                185.45941162109376,
+                10864.974609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Green",
+            "pos": [
+                10345.9130859375,
+                185.66514587402345,
+                10828.34765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        }
+    ]
+}

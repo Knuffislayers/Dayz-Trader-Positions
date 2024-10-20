@@ -4,7 +4,8 @@
 		"lightingConfig": 2,
 		"objectSpawnersArr": [copy from here-->
 			"traderobjects/fireplace_southeast.json",
-			"traderobjects/Firebarrel Trader Horobo.json"<---to here and paste to youre cfggameplay.json
+			"traderobjects/Firebarrel Trader Horobo.json",
+			"traderobjects/TraderFireplaceTheVillage.json"<---to here and paste to youre cfggameplay.json
 			
 		
 		],

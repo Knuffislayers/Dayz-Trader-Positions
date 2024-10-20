@@ -5,13 +5,13 @@
 // Use this file to spawn your vendors only. Don't use it to create trader areas. It can be used but it's not a good tool for doing so.
 // Don't use other tools to spawn your vendors as it won't work.
 
-// South-West:
+// South-East:
 
 //----------------------------------------------------------- | These are here just for visual delimitation in this file.
 //Consumables Trader
 <TraderMarker> 			0 									// Trader ID
 <TraderMarkerPosition>	2564.75, 39.75699996948242, 9055.5498046875 			// Coordinate X, 	Coordinate Y, 	Coordinate Z
-<TraderMarkerSafezone>	500	
+<TraderMarkerSafezone>	150	
 								// Safezone Radius
 <Object> 			SurvivorF_Irena							// Classname
 <ObjectPosition>		2564.75, 39.75699996948242, 9055.5498046875 			// Coordinate X, 	Coordinate Y, 	Coordinate Z (Must match TraderMarkerPosition)
@@ -123,14 +123,14 @@
 <ObjectAttachment>	HikingBootsLow_Blue
 
 
-
+//-----------------------------------------------------------
 // Horobo:
 
 //----------------------------------------------------------- | These are here just for visual delimitation in this file.
 //Consumables Trader
 <TraderMarker> 			0 									// Trader ID
 <TraderMarkerPosition>	8310.357421875, 44.469993591308597, 8068.2734375 			// Coordinate X, 	Coordinate Y, 	Coordinate Z
-<TraderMarkerSafezone>	500	
+<TraderMarkerSafezone>	150	
 								// Safezone Radius
 <Object> 			SurvivorF_Irena							// Classname
 <ObjectPosition>		8310.357421875, 44.469993591308597, 8068.2734375 				// Coordinate X, 	Coordinate Y, 	Coordinate Z (Must match TraderMarkerPosition)
@@ -228,8 +228,8 @@
 <TraderMarker> 			5
 <TraderMarkerPosition>	8390.900390625,	58.73550033569336,	8123.35009765625
 <TraderMarkerSafezone>	0
-<VehicleSpawn>			8405.869140625,	62.08921813964844,	8123.42626953125	// Vehicle Spawnpoint for Trader; Use only for vehicle traders
-<VehicleSpawnOri>		-120,		0,			0		// Vehicle Spawnpoint Orientation; Use only for vehicle traders
+<VehicleSpawn>			8405.869140625,	62.08921813964844,	8123.42626953125	
+<VehicleSpawnOri>		-120,		0,			0		
 
 <Object> 			SurvivorM_Peter
 <ObjectPosition>	8390.900390625,	58.73550033569336,	8123.35009765625
@@ -240,9 +240,138 @@
 <ObjectAttachment>	JumpsuitJacket_Blue
 <ObjectAttachment>	JumpsuitPants_Blue
 <ObjectAttachment>	HikingBootsLow_Blue
+
+//-----------------------------------------------------------
+
+// The Village:
+
+//----------------------------------------------------------- | 
+//Consumables Trader
+<TraderMarker> 			0 									// Trader ID
+<TraderMarkerPosition>	10341.9, 184.945, 10867.5 			// Coordinate X, 	Coordinate Y, 	Coordinate Z
+<TraderMarkerSafezone>	150	
+								// Safezone Radius
+<Object> 			SurvivorF_Irena							// Classname
+<ObjectPosition>		10341.9, 184.945, 10867.5 	 				// Coordinate X, 	Coordinate Y, 	Coordinate Z (Must match TraderMarkerPosition)
+<ObjectOrientation>		-180, 	0,		0			// Yaw, 			Pitch, 			Roll
+//<ObjectAttachment>	NPC_DUMMY							// Add this if you are using an non Character Object for an Trader (like Vending Machines, etc.). It is needed to make the User Action for the Trading Menu work.
+<ObjectAttachment>	BoxCerealCrunchin						// Add an Item to the Traders Inventory;
+<ObjectAttachment>	SurgicalGloves_White
+<ObjectAttachment>	Bandana_Polkapattern
+<ObjectAttachment>	MiniDress_PinkChecker
+<ObjectAttachment>	DressShoes_White
+//-----------------------------------------------------------
+
+//-----------------------------------------------------------
+//Misc Trader
+<TraderMarker> 			1
+<TraderMarkerPosition>	10339.3662109375,    184.945,    10868.1
+<TraderMarkerSafezone>	0
+
+<Object> 			SurvivorF_Keiko
+<ObjectPosition>	10339.3662109375,    184.945,    10868.1
+<ObjectOrientation>	171.0, 0,
+<ObjectAttachment>	Wrench
+<ObjectAttachment>	SledgeHammer
+<ObjectAttachment>	WorkingGloves_Brown
+<ObjectAttachment>	ConstructionHelmet_White
+<ObjectAttachment>	Shirt_BlueCheck
+<ObjectAttachment>	CanvasPants_Blue
+<ObjectAttachment>	WorkingBoots_Grey
+//-----------------------------------------------------------
+
+//-----------------------------------------------------------
+//Weapon Trader
+<TraderMarker> 			2
+<TraderMarkerPosition>	10345.3662109375,    184.5790252685547,    10817.85546875
+<TraderMarkerSafezone>	0
+
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	10345.3662109375,    184.5790252685547,    10817.85546875
+<ObjectOrientation>	-12.000090599060059, 0,			0
+<ObjectAttachment>	FirefighterAxe
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	M4A1
+<ObjectAttachment>	M4_RISHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	M4_OEBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	M4_Suppressor
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	MilitaryBeret_CDF
+<ObjectAttachment>	PlateCarrierVest
+<ObjectAttachment>	TTsKOJacket_Camo
+<ObjectAttachment>	TTSKOPants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	AliceBag_Camo
+//-----------------------------------------------------------
+
+//-----------------------------------------------------------
+//Weapon Supplies
+<TraderMarker> 			3
+<TraderMarkerPosition>	10339.0,    184.6280059814453,    10817.2998046875
+<TraderMarkerSafezone>	0
+
+
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	10339.0,    184.6280059814453,    10817.2998046875
+<ObjectOrientation>	-12.0, 0,			0
+<ObjectAttachment>	Mag_STANAG_30Rnd
+<ObjectAttachment>	SportGlasses_Orange
+<ObjectAttachment>	BaseballCap_Camo
+<ObjectAttachment>	TacticalShirt_Olive
+<ObjectAttachment>	SmershVest
+<ObjectAttachment>	BDUPants
+<ObjectAttachment>	TTSKOBoots
+<ObjectAttachment>	AssaultBag_Ttsko
+//-----------------------------------------------------------
+
+//-----------------------------------------------------------
+//Clothing Trader
+<TraderMarker> 			4
+<TraderMarkerPosition>	10340.400390625,	184.5260009765625,	10840.7001953125
+<TraderMarkerSafezone>	0
+
+<Object> 			SurvivorM_Denis
+<ObjectPosition>	10340.400390625,	184.5260009765625,	10840.7001953125
+<ObjectOrientation>	90.0, 0,	
+<ObjectAttachment>	ThickFramesGlasses
+<ObjectAttachment>	TacticalShirt_Olive
+<ObjectAttachment>	BDUPants
+<ObjectAttachment>	HikingBootsLow_Back
+//-----------------------------------------------------------
+
+//-----------------------------------------------------------
+//Vehicles Trader
+<TraderMarker> 			5
+<TraderMarkerPosition>	10365.5,	184.0850067138672,	10846.2998046875
+<TraderMarkerSafezone>	0
+<VehicleSpawn>			10359.900390625,	185.47000122070313,	10840.0	// Vehicle Spawnpoint for Trader; Use only for vehicle traders
+<VehicleSpawnOri>		179.99998474121095,		0,			0		// Vehicle Spawnpoint Orientation; Use only for vehicle traders
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	10365.5,	184.0850067138672,	10846.2998046875
+<ObjectOrientation>	-90.0, 0,	0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
  ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
 	
+<Object>DC_BankingATM
+<ObjectPosition>2555.16, 40.0566, 9049.02
+<ObjectOrientation>-10, 0, 0
 
+<Object>DC_BankingATMRed
+<ObjectPosition>8399.96, 59.94, 8133.97
+<ObjectOrientation>-120, 0, 0
+
+<Object>DC_BankingATMRed
+<ObjectPosition>10345.3, 184.423, 10846.0
+<ObjectOrientation>-96, 0, 0
 
 //<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
 <FileEnd>												// This has to be on the End of this File and is very importand!
