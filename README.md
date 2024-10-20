@@ -6,6 +6,9 @@ Download the zip.
 In the .zip are two Folders.
 In the folder Trader, copy the file "TraderObjects.txt" and paste it \Config\Tader\ on you're Server
 and overwrite the existing file.
+TraderObjects.txt contains now Positions and spawndata for the ATM of "Banking" mod#
+https://steamcommunity.com/sharedfiles/filedetails/?id=1836257061
+Now "Banking" is necessary.
 
 In the folder "vppmap" are two files.
 The TraderObjects.json file contains the Tradermarkers of the Sakhal map.
