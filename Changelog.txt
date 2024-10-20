@@ -1,0 +1,4 @@
+*20.10.2024*
+- Reduced the Trader Safezones from 500m to 150m
+- implemented ATM's on all three Traders.
+- Banking mod is now needed.
