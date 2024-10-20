@@ -2,3 +2,4 @@
 - Reduced the Trader Safezones from 500m to 150m
 - implemented ATM's on all three Traders.
 - Banking mod is now needed.
+- corrected Tradermarker in VPPMapConfig.json and VPPMapConfig.txt
