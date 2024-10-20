@@ -1,4 +1,4 @@
-Here you have two Trader positions for the Sakhal map. 
+Here you have three Trader positions for the Sakhal map. 
 For the moment, there ar only the Trader-NPC's. No Deco for now. Maybe later.
 
 Installation:
