@@ -3,3 +3,4 @@
 - implemented ATM's on all three Traders.
 - Banking mod is now needed.
 - corrected Tradermarker in VPPMapConfig.json and VPPMapConfig.txt
+- 15:43 UTC/ corrected Tradermarker in VPPMapConfig.json and VPPMapConfig.txt becouse of wrong coordinats and missing comma
