@@ -26,13 +26,13 @@
                 255.0
             ],
             "M_POSITION": [
-                7400.0,
-                0.0,
-                7200.0
+                8400.4,
+                187.0,
+                8129.1
             ],
             "M_ISACTIVE": 1,
             "M_IS_3D_ACTIVE": 1
-        },
+        }
 		{
             "M_MARKER_NAME": "Trader - The Village",
             "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
@@ -42,9 +42,9 @@
                 255.0
             ],
             "M_POSITION": [
-                8400.4,
+                10365.5,
                 187.0,
-                8129.1
+                10846.2
             ],
             "M_ISACTIVE": 1,
             "M_IS_3D_ACTIVE": 1
